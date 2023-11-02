@@ -1,0 +1,1 @@
+Устоновщик AimTir на Windows
