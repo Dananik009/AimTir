@@ -1,1 +1,1 @@
-Устоновщик AimTir на Windows
+Устоновщик AimTrainer на Windows
